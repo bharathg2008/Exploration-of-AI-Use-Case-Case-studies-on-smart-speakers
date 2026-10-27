@@ -2,7 +2,7 @@
 ## AIM
 To study the application of Artificial Intelligence in smart speakers and understand how AI technologies such as Natural Language Processing (NLP), Speech Recognition, Machine Learning, and Voice Assistant technology are used to provide intelligent services.
 
-## THEORY
+## THEORY 
 
 A **smart speaker** is an AI-enabled electronic device that accepts voice commands from users and provides appropriate responses or performs specific actions. Examples include **Amazon Echo, Google Nest, and Apple HomePod**.
 
